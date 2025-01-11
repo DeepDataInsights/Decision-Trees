@@ -2,10 +2,10 @@
 
 Learning Material:
 
-What is a Decision Tree?
-How to split?
-Math Behind it
-Activity 1: True/False
-Simple Implementation
-Advantages & Disadvantages
-Activity 2: Guess the Word
+1. What is a Decision Tree?
+2. How to split?
+3. Math Behind it
+4. Activity 1: True/False
+5. Simple Implementation
+6. Advantages & Disadvantages
+7. Activity 2: Guess the Word
